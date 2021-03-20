@@ -40,5 +40,5 @@
 <code><img src="https://user-images.githubusercontent.com/44708711/100903610-1db10a00-34ec-11eb-91e1-52481053a3b9.png" width="40" height="40"/></code>
 
 <p> <img align="centre" width="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalk3&show_icons=true&theme=dark&locale=en&layout=compact" alt="kunalk3" />
-<img align="centre" width="300" src="https://github-readme-stats.vercel.app/api?username=kunalk3&show_icons=true&theme=dark&locale=en" alt="kunalk3" />
-<img align="centre" width="320" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalk3&theme=dark" alt="kunalk3" />
+<img align="centre" width="280" src="https://github-readme-stats.vercel.app/api?username=kunalk3&show_icons=true&theme=dark&locale=en" alt="kunalk3" />
+<img align="centre" width="280" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalk3&theme=dark" alt="kunalk3" />
