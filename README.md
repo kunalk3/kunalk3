@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"><br>
 - 🌱 I’m currently learning and improving **Statistics, Data Analytics, Machine Learning, Deep Learning, Natural Language Processing.**
 
-- 💞️ [**Software Engineer** - *KPIT Technologies (HQ)*] **+** [Post Graduation **CDAC** - *Computer Science*] **+** [Graduaction **B.Tech** - *Electrical Engineering*].
+- 💞️ [**Data Scientist Intern** - *Innodatatics*] **+** [**Software Engineer** - *KPIT Technologies (HQ)*] **+** [Post Graduation **CDAC** - *Computer Science*] **+** [Graduaction **B.Tech** - *Electrical Engineering*].
 
 - 👀 I’m looking for **new opportunity** in *Machine Learning + Data Scientist + Data Analyst with challenging myself*..
 
