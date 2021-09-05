@@ -2,13 +2,13 @@
 <h3 align="center">DATA HAS A BETTER IDEA!!! just play with it...</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"><br>
-- 🌱 **Software Developer** with over *2.8 years* of total industry experience in software design and development. Proficient in **C++, OOP's, python, ML, NLP, DL, Data Analytics** with practical working experience in requirement analysis, design, implementation, solution deployments, POC, releases to customers with improvements and new learnings.
+- 🌱 **Software Developer** with over *3.0 years* of total industry experience in software design and development. Proficient in **Python, ML, NLP, Algorithms, C++, OOP's, Data Analytics, Web Scraping Techniques, API** with practical working experience in requirement analysis, design, implementation, solution deployments, POC, releases to customers with improvements and new learnings.
 
 - 💞️ [**Software Developer** - *Financial Technology*] **+** [**Data Scientist Intern** - *Innodatatics Inc*] **+** [**Software Engineer** - *KPIT Technologies (HQ)*] **+** [Post Graduation **CDAC** - *Computer Science*] **+** [Graduaction **B.Tech** - *Electrical Engineering*].
 
 - 👀 Good *analytical ability* with passion for turning data into actionable insights, find discoveries, hidden patterns, and solution through it.
 
-- 💬 *C++ | Data Struture | Python | ML | DL | NLP*
+- 💬 *Python | ML | DL | NLP | Algorithms | C++ | OOP's | Analytics*
 
 - 📫 How to reach me **https://www.linkedin.com/in/kunalkolhe3**
 
