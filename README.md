@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kunal</h1>
 <h3 align="center">DATA HAS A BETTER IDEA!!! just play with it...</h3>
+<p align="center">
+  <img src="https://github.com/kunalk3/StockExchange_live_data_manipulation_api/blob/main/12GIF.gif?raw=true" height="340px" width="90%" />
+</p>
 
+---
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"><br>
 - 🌱 **Software Developer** with over *3.0 years* of total industry experience in software design and development. Proficient in **Python, ML, NLP, Algorithms, C++, OOP's, Data Analytics, Web Scraping Techniques, API** with practical working experience in requirement analysis, design, implementation, solution deployments, POC, releases to customers with improvements and new learnings.
 
@@ -14,6 +18,7 @@
 
 - ⚡ _**LEARN** twice but **CODE** once!!!_ and _Don't wait for opportunity, create it._
 
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kunalkolhe3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kunalkolhe3" height="30" width="40" /></a>
@@ -22,6 +27,7 @@
 <a href="https://www.hackerrank.com/kunalkolhe333" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kunalkolhe333" height="30" width="40" /></a>
 </p>
 
+---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
@@ -43,6 +49,7 @@
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" width="40" height="40"/></code>
 <code><img src="https://user-images.githubusercontent.com/44708711/100903610-1db10a00-34ec-11eb-91e1-52481053a3b9.png" width="40" height="40"/></code>
 
+  ---                                                                                                                                           ------
 ![](https://komarev.com/ghpvc/?username=kunalk3&color=green&label=Profile+Views)
 <p> <img align="centre" width="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalk3&show_icons=true&theme=dark&locale=en&layout=compact" alt="kunalk3" />
 <img align="centre" width="280" src="https://github-readme-stats.vercel.app/api?username=kunalk3&show_icons=true&theme=dark&locale=en" alt="kunalk3" />
