@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal</h1>
 <h3 align="center">DATA HAS A BETTER IDEA!!! just play with it...</h3>
-<p align="center">
-  <img src="https://github.com/kunalk3/StockExchange_live_data_manipulation_api/blob/main/12GIF.gif?raw=true" height="340px" width="90%" />
-</p>
 
 ---
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"><br>
@@ -54,3 +51,8 @@
 <p> <img align="centre" width="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalk3&show_icons=true&theme=dark&locale=en&layout=compact" alt="kunalk3" />
 <img align="centre" width="280" src="https://github-readme-stats.vercel.app/api?username=kunalk3&show_icons=true&theme=dark&locale=en" alt="kunalk3" />
 <img align="centre" width="280" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalk3&theme=dark" alt="kunalk3" />
+
+                                                                                                                             
+<p align="center">
+  <img src="https://github.com/kunalk3/StockExchange_live_data_manipulation_api/blob/main/12GIF.gif?raw=true" height="340px" width="90%" />
+</p>
