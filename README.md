@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/41562231/147804883-98405cbc-c472-46fb-948e-32030725458b.png" height="200" width="1000">
+<img src="https://user-images.githubusercontent.com/41562231/147804883-98405cbc-c472-46fb-948e-32030725458b.png" height="150" width="1000">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Kunal</h1><h4><i>DATA HAS A BETTER IDEA!!! just play with it...</i></h4>
 </div>
 
@@ -8,11 +8,11 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"><br>
 
 ✒️ __About me:__
-- 📌 Software Developer having strong analytical ability, problem-solving skill, proficient in __Python, C++__, with over 3.0 years of industry experience in software development and analytics, data science with extensive experience in __data analysis, manipulating, processing, insights, web scraping, API__ and __ML-NLP-DL techniques.__ with practical working experience in requirement analysis, data modeling, algorithm implementation, solution deployments, POC releases to customers, stakeholder interactions with constatnt improvements and new learnings.
+- 📌 Software Engineer having strong analytical ability, problem-solving skill, proficient in __Python, C++__, with over 3.0 years of industry experience in software development and analytics, data science with extensive experience in __data analysis, manipulating, processing, insights, web scraping, API__ and __ML-NLP-DL techniques.__ with practical working experience in requirement analysis, data modeling, algorithm implementation, solution deployments, POC releases to customers, stakeholder interactions with constatnt improvements and new learnings.
 
-- 📌 _Software Developer (ML-Engineer) - 63 Moons Technogies_  | _Data Scientist Intern- Innodatatics Inc_ | _Software Engineer - KPIT Technologies (HQ)_ |  _Post Graduation : CDAC - Computer Science_
+- 📌 _Software Engineer (ML) - 63 Moons Technogies (HQ)_  | _Data Science Engineer - Innodatatics Inc_ | _Software Engineer - KPIT Technologies (HQ)_ |  _Post Graduation : CDAC - Computer Science_
 
-- 📌 Good *analytical ability* with passion for turning data into actionable insights, find discoveries, hidden patterns, and solution through it. I enjoy the journey with data, meeting new people, and hearing new perspectives
+- 📌 Strong *analytical ability* with passion for turning data into actionable insights, find discoveries, hidden patterns, and solution through it. I enjoy the journey with data, meeting new people, and hearing new perspectives
 
 - 📌 Let's Connect with me _https://www.linkedin.com/in/kunalkolhe3_
 
