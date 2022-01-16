@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"><br>
 
 ✒️ __About me:__
-- 📌 Software Engineer having strong analytical ability, problem-solving skill, proficient in __Python, C++__, with over 3.0 years of industry experience in software development and analytics, data science with extensive experience in __data analysis, manipulating, processing, insights, web scraping, API__ and __ML-NLP-DL techniques.__ with practical working experience in requirement analysis, data modeling, algorithm implementation, solution deployments, POC releases to customers, stakeholder interactions with constatnt improvements and new learnings.
+- 📌 Software Engineer (ML) having strong analytical ability, problem-solving skill, proficient in __Python, C++__, with over 3.0 years of industry experience in software development and analytics, data science with extensive experience in __data analysis, manipulating, processing, insights, web scraping, API__ and __ML-NLP-DL techniques.__ with practical working experience in requirement analysis, data modeling, algorithm implementation, solution deployments, POC releases to customers, stakeholder interactions with constatnt improvements and new learnings.
 
 - 📌 _Software Engineer (ML) - 63 Moons Technogies (HQ)_  | _Data Science Engineer - Innodatatics Inc_ | _Software Engineer - KPIT Technologies (HQ)_ |  _Post Graduation : CDAC - Computer Science_
 
