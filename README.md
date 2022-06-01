@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/41562231/147804883-98405cbc-c472-46fb-948e-32030725458b.png" height="150" width="1000">
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Kunal</h1><h4><i>DATA HAS A BETTER IDEA!!! just play with it...</i></h4>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px",width="40px"> I'm Kunal</h1><h4><i>DATA HAS A BETTER IDEA!!! just play with it...</i></h4>
 </div>
+
 
 ---
 
