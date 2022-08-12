@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"><br>
 
 ✒️ __About me:__
-- 📌 Data Science Engineer having strong analytical ability, problem-solving skill, proficient in __Machine Learning, Python, C++ 11/14__, with over 3+ years of industry experience in software development and 2 years contributed in data analytics, data science tools and techniques with extensive experience in __data analysis, manipulating, processing, insights, web scraping, API__ and __ML-NLP-DL techniques.__ with practical working experience in requirement analysis, data preparation, data modeling, solution deployments, POC releases to customers, stakeholder interactions with constatnt improvements and new learnings.
+- 📌 Data Science Engineer having strong analytical ability, problem-solving skill, proficient in __Machine Learning, Deep Learning, Market Research, Statistics, Python, C++ 11/14__, with over 3+ years of industry experience and 2+ years contributed in data analytics, data science tools and techniques with extensive experience in __data analysis, manipulating, processing, insights, data preparation, data modeling, web scraping, API__ and __ML-NLP-DL techniques.__ I like to learn new AI techniques, data aspects and innovative research.
 
 - 📌 Strong *analytical ability* with passion for turning data into actionable insights, find discoveries, hidden patterns, and solution through it. I enjoy the journey with data, meeting new people, and hearing new perspectives
 
@@ -28,7 +28,6 @@
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/44708711/100903610-1db10a00-34ec-11eb-91e1-52481053a3b9.png" width="40" height="40"/>
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg" alt="flask" width="40" height="40"/></a>
   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="heroku" width="40" height="40"/></a>
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
