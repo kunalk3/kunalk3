@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"><br>
 
 ✒️ __About me:__
-- 📌 Data Science Engineer having strong analytical ability, problem-solving skill, proficient in __Machine Learning, Deep Learning, Market Research, Statistics, Python, C++ 11/14__, with over 3+ years of industry experience and 2+ years contributed in data analytics, data science tools and techniques with extensive experience in __data analysis, manipulating, processing, insights, data preparation, data modeling, web scraping, API__ and __ML-NLP-DL techniques.__ I like to learn new AI techniques, data aspects and innovative research.
+- 📌 Data Science Engineer having strong analytical ability, problem-solving skill, proficient in __Machine Learning, Deep Learning, Market Research, Statistics, Python, C++ 11/14__, with over 3.6 years of industry experience and 3+ years contributed in data analytics, data science tools and techniques with extensive experience in __data analysis, manipulating, processing, insights, data preparation, data modeling, web scraping, API__ and __ML-NLP-DL techniques.__ I like to learn new AI techniques, data aspects and innovative research.
 
 - 📌 Strong *analytical ability* with passion for turning data into actionable insights, find discoveries, hidden patterns, and solution through it. I enjoy the journey with data, meeting new people, and hearing new perspectives
 
