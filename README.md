@@ -9,11 +9,24 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"><br>
 
 ✒️ __About me:__
-- 📌 Data Science Engineer having strong analytical ability, problem-solving skill, proficient in __Machine Learning, Deep Learning, Market Research, Statistics, Python, C++ 11/14__, with overall 4.5+ years of industry experience and 3+ years contributed in data analytics, data science tools like OpenAI, LLM, GPT and techniques with extensive experience in __data analysis, manipulating, processing, insights, data preparation, data modeling, web scraping, API__ and __ML-NLP-DL techniques.__ I like to learn new AI techniques, data aspects and innovative research.
+- 📌 Data Science Engineer having strong analytical ability, problem-solving skill, proficient in __AI-ML, Data Analytics, Data Science, Python, C++__, with overall 5.5 years of industry experience and 4+ years contributed in Data Science use-cases with Deep Learning, Market Research, Statistics, OpenAI, LLM, GPT, AI tools. Also I have exposure on end-to-end data pipelines with data validations, mapping, manipulating, processing, insights, preparation, modeling, dashboards. I like to learn new AI functionalities, data aspects and innovative research.
 
 - 📌 Strong *analytical ability* with a passion for turning data into actionable insights, finding discoveries, hidden patterns, and solutions through it. I enjoy the journey with data, meeting new people, and hearing new perspectives
 
-- 📌 Let's Connect with me _https://www.linkedin.com/in/kunalkolhe3_
+  ➤ Expertise in AI-ML techniques, Data Science, Python, Data Analytics, AI tools.
+  ➤ I enjoy the journey with data, new people, AI-ML keys, data pipelines, cloud.
+  ➤ Productive | Strategic thinker | Mentor | Motivated | Quick learner | Problem solver.
+  ➤ I like to play carrom, badminton, pianist.
+
+- 📌 Conenct and follow me. Let's learn AI togather
+
+  <a href="https://www.linkedin.com/in/kunalkolhe3/"><img align="left" src="https://raw.githubusercontent.com/kunalk3/kunalk3/main/images/icons8-linkedin.gif" alt="kunalkolhe3" width="25px"/></a>
+  <a href="https://github.com/kunalk3/"><img align="left" src="https://raw.githubusercontent.com/kunalk3/kunalk3/main/images/icons8-github.gif" alt="kunalkolhe3" width="25px"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kunalkoleh333@gmail.com" target="_blank"><img align="left" src="https://raw.githubusercontent.com/kunalk3/kunalk3/main/images/icons8-gmail.gif" alt="kunalkolhe3" width="25px"/></a>
+  <a href="https://www.facebook.com/kunal.kolhe98/"><img align="left" src="https://raw.githubusercontent.com/kunalk3/kunalk3/main/images/icons8-facebook.gif" alt="kunalkolhe3" width="25px"/></a>
+  <a href="https://www.instagram.com/kkunalkkolhe/ "><img align="left" src="https://raw.githubusercontent.com/kunalk3/kunalk3/main/images/icons8-instagram.gif" alt="kunalkolhe3" width="25px"/></a>
+  <a href="https://www.google.com/maps/place/Pune,+Maharashtra/"><img align="left" src="https://raw.githubusercontent.com/kunalk3/kunalk3/main/images/icons8-location.gif" alt="kunalkolhe3" width="25px"/></a><br>
+
 
 ```
 "Don't wait for opportunity, just create it."
