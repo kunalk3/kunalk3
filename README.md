@@ -23,9 +23,9 @@
   <a href="https://github.com/kunalk3/"><img align="left" src="https://raw.githubusercontent.com/kunalk3/kunalk3/main/images/icons8-github.gif" alt="kunalkolhe3" width="25px"/></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kunalkoleh333@gmail.com" target="_blank"><img align="left" src="https://raw.githubusercontent.com/kunalk3/kunalk3/main/images/icons8-gmail.gif" alt="kunalkolhe3" width="25px"/></a>
   <a href="https://www.facebook.com/kunal.kolhe98/"><img align="left" src="https://raw.githubusercontent.com/kunalk3/kunalk3/main/images/icons8-facebook.gif" alt="kunalkolhe3" width="25px"/></a>
-  <a href="https://www.instagram.com/kkunalkkolhe/ "><img align="left" src="https://raw.githubusercontent.com/kunalk3/kunalk3/main/images/icons8-instagram.gif" alt="kunalkolhe3" width="25px"/></a>
+  <a href="https://www.instagram.com/kkunalkkolhe/"><img align="left" src="https://raw.githubusercontent.com/kunalk3/kunalk3/main/images/icons8-instagram.gif" alt="kunalkolhe3" width="25px"/></a>
   <a href="https://www.google.com/maps/place/Pune,+Maharashtra/"><img align="left" src="https://raw.githubusercontent.com/kunalk3/kunalk3/main/images/icons8-location.gif" alt="kunalkolhe3" width="25px"/></a>
-  <a href="https://kunalk3.github.io/Portfolio-Website-Kunalk3/"><img align="left" src="https://raw.githubusercontent.com/kunalk3/kunalk3/main/images/icons8-menu.gif" alt="kunalkolhe3" width="25px"/></a>)
+  <a href="https://kunalk3.github.io/Portfolio-Website-Kunalk3/"><img align="left" src="https://raw.githubusercontent.com/kunalk3/kunalk3/main/images/icons8-menu.gif" alt="kunalkolhe3" width="25px"/></a>
   <br>
 
 
