@@ -8,13 +8,13 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"><br>
 
 ✒️ __About me:__
-- 📌 Data Science Engineer having strong analytical ability, problem-solving skill, proficient in __AI-ML, Data Analytics, Data Science, Python, C++__, with overall 5.5 years of industry experience and 4+ years contributed in Data Science use-cases with Deep Learning, Market Research, Statistics, OpenAI, LLM, GPT, AI tools. Also I have exposure on end-to-end data pipelines with data validations, mapping, manipulating, processing, insights, preparation, modeling, dashboards. I like to learn new AI functionalities, data aspects and innovative research.
+- 📌 Data Consultant having a strong analytical ability, problem-solving skill, proficient in __AI-ML, Data Analytics, Data Science, Python, C++__, with overall 5.5+ years of industry experience in AI-ML and Data Analytics with Machine Learning and Deep Learning algorithms, Market Research, Statistics, GenAI use-cases, Multi-modal functionalities, LLM, GPT, Agents, RAG, AI tools. Also, I have exposure on end-to-end data pipelines with data processing, mapping, manipulating, validating, insights, preparation, modeling and dashboards on cloud stack. I like to learn new AI functionalities, data aspects and innovative research.
 
 - 📌 Strong *analytical ability* with a passion for turning data into actionable insights, finding discoveries, hidden patterns, and solutions through it. I enjoy the journey with data, meeting new people, and hearing new perspectives
 
-  ➤ Expertise in AI-ML techniques, Data Science, Python, Data Analytics, AI tools.
-  ➤ I enjoy the journey with data, new people, AI-ML keys, data pipelines, cloud.
-  ➤ Productive | Strategic thinker | Mentor | Motivated | Quick learner | Problem solver.
+  ➤ Expertise in AI-ML techniques, Data Science, Python, Data Analytics, AI tools.<br>
+  ➤ I enjoy the journey with data, new people, AI-ML keys, data pipelines, cloud.<br>
+  ➤ Productive | Strategic thinker | Mentor | Motivated | Quick learner | Problem solver.<br>
   ➤ I like to play carrom, badminton, pianist.
 
 - 📌 Connect with me and follow. Let's learn AI togather...
