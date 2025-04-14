@@ -58,7 +58,7 @@
   <a href="https://scipy.org/" target="_blank"> <img src="./images/ico_scipy.png" alt="scipy" width="60" height="30"/></a>
   <a href="https://www.tensorflow.org/" target="_blank"> <img src="./images/ico_tensorflow.png" alt="tensorflow" width="28" height="28"/></a>
   <a href="https://keras.io/" target="_blank"> <img src="./images/ico_keras.png" alt="keras" width="30" height="32"/></a>
-  <a href="https://xgboost.readthedocs.io/en/stable/install.html" target="_blank"> <img src="./images/ico_xgb.png" alt="xgb" width="30" height="32"/></a>
+  <a href="https://xgboost.readthedocs.io/en/stable/install.html" target="_blank"> <img src="./images/xgb.png" alt="xgb" width="50" height="30"/></a>
   <a href="https://scikit-learn.org/" target="_blank"> <img src="./images/ico_scikitlearn.png" alt="scikitlearn" width="60" height="25"/></a>
   <a href="https://plotly.com/" target="_blank"> <img src="./images/ico_plotly.png" alt="plotly" width="28 height="28"/></a>
   <a href="https://www.nltk.org/" target="_blank"> <img src="./images/ico_nltk.png" alt="nltk" width="30" height="30"/></a>
@@ -67,6 +67,10 @@
   <a href="https://radimrehurek.com/gensim/index.html" target="_blank"> <img src="./images/ico_gensim.png" alt="gensim" width="45" height="25"/></a>
   <a href="https://textblob.readthedocs.io/en/dev/" target="_blank"> <img src="./images/ico_textblob.png" alt="textblob" width="30" height="25"/></a> 
   <a href="https://spacy.io/" target="_blank"> <img src="./images/ico_spacy.png" alt="spacy" width="40" height="20"/></a> 
+  <a href="https://opencv.org/" target="_blank"> <img src="./images/ico_opencv.png" alt="opencv" width="30" height="30"/></a> 
+  <a href="https://www.dask.org/" target="_blank"> <img src="./images/ico_dask.png" alt="dask" width="50" height="25"/></a> 
+  <a href="https://optuna.org/" target="_blank"> <img src="./images/ico_optuna.png" alt="optuna" width="30" height="25"/></a> 
+  <a href="https://www.ray.io/" target="_blank"> <img src="./images/ico_ray.png" alt="ray" width="50" height="27"/></a> 
 </p>
 <p align="right"> 
   <a href="https://aws.amazon.com/" target="_blank"> <img src="./images/ico_aws.png" alt="aws" width="28" height="30"/></a>
@@ -91,7 +95,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="./images/ico_git.png" alt="git" width="32" height="30"/></a>
   <a href="https://www.atlassian.com/software/confluence" target="_blank"> <img src="./images/ico_confluence.png" alt="confluence" width="32" height="27"/></a>
   <a href="https://dvc.org/" target="_blank"> <img src="./images/ico_dvc.png" alt="dataversioncontrol" width="28" height="25"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_docker.png" alt="python" width="30" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_docker.png" alt="docker" width="30" height="30"/></a>
 </p>
 <p align="right"> 
   <a href="https://openai.com/" target="_blank"> <img src="./images/ico_openai.png" alt="openai" width="55" height="18"/></a>
