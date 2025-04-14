@@ -1,27 +1,42 @@
 <p align="right"> 
+  <a href="" target="_blank"> <img src="./images/ico_aws.png" alt="python" width="30" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_aws.png" alt="python" width="30" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_aws.png" alt="python" width="30" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_aws.png" alt="python" width="30" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_aws.png" alt="python" width="30" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_aws.png" alt="python" width="30" height="30"/></a>
+</p>
+<p align="right"> 
+  <a href="" target="_blank"> <img src="./images/ico_aws.png" alt="python" width="28" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_azure.png" alt="python" width="30" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_gcp.png" alt="python" width="30" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_flask.png" alt="python" width="32" height="27"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_streamlit.png" alt="python" width="30" height="32"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_gradio.png" alt="python" width="23" height="30"/></a>
+</p>
+<p align="right"> 
   <a href="" target="_blank"> <img src="./images/ico_pandas.png" alt="python" width="28" height="28"/></a>
   <a href="" target="_blank"> <img src="./images/ico_numpy.png" alt="python" width="33" height="33"/></a>
   <a href="" target="_blank"> <img src="./images/ico_scipy.png" alt="python" width="60" height="30"/></a>
   <a href="" target="_blank"> <img src="./images/ico_tensorflow.png" alt="python" width="28" height="28"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_keras.png" alt="python" width="30" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_keras.png" alt="python" width="30" height="32"/></a>
   <a href="" target="_blank"> <img src="./images/ico_scikitlearn.png" alt="python" width="60" height="25"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_flask.png" alt="python" width="30" height="33"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_gradio.png" alt="python" width="30" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_keras.png" alt="python" width="30" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_keras.png" alt="python" width="30" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_keras.png" alt="python" width="30" height="30"/></a>
-
+  <a href="" target="_blank"> <img src="./images/ico_nltk.png" alt="python" width="30" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_selenium.png" alt="python" width="30" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_pytorch.png" alt="python" width="30" height="30"/></a> 
+  <a href="" target="_blank"> <img src="./images/ico_gensim.png" alt="python" width="45" height="25"/></a>
 </p>
 <p align="right"> 
   <a href="" target="_blank"> <img src="./images/ico_python.png" alt="python" width="28" height="28"/></a>
   <a href="" target="_blank"> <img src="./images/ico_cpp.png" alt="python" width="33" height="33"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_sql.png" alt="python" width="33" height="32"/></a
+  <a href="" target="_blank"> <img src="./images/ico_sql.png" alt="python" width="33" height="32"/></a>
   <a href="" target="_blank"> <img src="./images/ico_java.png" alt="python" width="32" height="32"/></a>
   <a href="" target="_blank"> <img src="./images/ico_js.png" alt="python" width="33" height="33"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_spark.png" alt="python" width="40" height="30"/></a>
   <a href="" target="_blank"> <img src="./images/ico_html.png" alt="python" width="33" height="33"/></a>
   <a href="" target="_blank"> <img src="./images/ico_css.png" alt="python" width="33" height="33"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_bootstrap.png" alt="python" width="30" height="33"/></a
-  <a href="" target="_blank"> <img src="./images/ico_qt.png" alt="python" width="30" height="33"/></a
+  <a href="" target="_blank"> <img src="./images/ico_bootstrap.png" alt="python" width="30" height="33"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_qt.png" alt="python" width="30" height="33"/></a>
 </p>
 
 
