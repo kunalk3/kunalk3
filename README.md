@@ -35,73 +35,80 @@
 
 ---
 
-✒️ __Languages and Tools:__
+✒️ __Tech Stack:__
 <p align="right"> 
-  <a href="" target="_blank"> <img src="./images/ico_openai.png" alt="python" width="55" height="20"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_ollama.png" alt="python" width="25" height=30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_langchain.png" alt="python" width="90" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_chroma.png" alt="python" width="30" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_crewai.png" alt="python" width="50" height="25"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_huggingface.png" alt="python" width="25" height="25"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_llamaindex.png" alt="python" width="70" height="35"/></a> 
-  <a href="" target="_blank"> <img src="./images/ico_chatgpt.png" alt="python" width="30" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_geminiai.png" alt="python" width="50" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_groq.png" alt="python" width="25" height="28"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_langgraph.png" alt="python" width="60" height="28"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_meta.png" alt="python" width="30" height="22"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_claude.png" alt="python" width="50" height="25"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_perplexityai.png" alt="python" width="25" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_neo4j.png" alt="python" width="40" height="30"/></a>
-  
+  <a href="https://www.python.org/" target="_blank"> <img src="./images/ico_python.png" alt="python" width="28" height="28"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="./images/ico_cpp.png" alt="cpp" width="33" height="33"/></a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="./images/ico_sql.png" alt="sql" width="33" height="32"/></a>
+  <a href="https://www.java.com/en/" target="_blank"> <img src="./images/ico_java.png" alt="java" width="32" height="32"/></a>
+  <a href="https://www.programiz.com/c-programming" target="_blank"> <img src="./images/ico_c.png" alt="c" width="28" height="28"/></a>
+  <a href="https://nodejs.org/en" target="_blank"> <img src="./images/ico_js.png" alt="javascript" width="33" height="33"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="./images/ico_mongodb.png" alt="javascript" width="35" height="30"/></a>
+  <a href="https://spark.apache.org/" target="_blank"> <img src="./images/ico_spark.png" alt="spark" width="40" height="30"/></a>
+  <a href="https://html.com/" target="_blank"> <img src="./images/ico_html.png" alt="html" width="33" height="33"/></a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="./images/ico_css.png" alt="css" width="33" height="33"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"> <img src="./images/ico_bootstrap.png" alt="bootstrap" width="30" height="33"/></a>
+  <a href="https://www.qt.io/" target="_blank"> <img src="./images/ico_qt.png" alt="qtqml" width="30" height="33"/></a>
+</p>
+<p align="right">
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="./images/ico_pandas.png" alt="pandas" width="28" height="28"/></a>
+  <a href="https://numpy.org/" target="_blank"> <img src="./images/ico_numpy.png" alt="numpy" width="33" height="33"/></a>
+  <a href="https://mlflow.org/" target="_blank"> <img src="./images/ico_mlflow.png" alt="mlflow" width="55" height="27"/></a>
+  <a href="https:https://www.statsmodels.org/stable/index.html/" target="_blank"> <img src="./images/ico_statmodels.png" alt="statsmodel" width="45" height="27"/></a>
+  <a href="https://scipy.org/" target="_blank"> <img src="./images/ico_scipy.png" alt="scipy" width="60" height="30"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"> <img src="./images/ico_tensorflow.png" alt="tensorflow" width="28" height="28"/></a>
+  <a href="https://keras.io/" target="_blank"> <img src="./images/ico_keras.png" alt="keras" width="30" height="32"/></a>
+  <a href="https://xgboost.readthedocs.io/en/stable/install.html" target="_blank"> <img src="./images/ico_xgb.png" alt="xgb" width="30" height="32"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="./images/ico_scikitlearn.png" alt="scikitlearn" width="60" height="25"/></a>
+  <a href="https://plotly.com/" target="_blank"> <img src="./images/ico_plotly.png" alt="plotly" width="28 height="28"/></a>
+  <a href="https://www.nltk.org/" target="_blank"> <img src="./images/ico_nltk.png" alt="nltk" width="30" height="30"/></a>
+  <a href="https://www.selenium.dev/" target="_blank"> <img src="./images/ico_selenium.png" alt="selenium" width="30" height="30"/></a>
+  <a href="https://pytorch.org/" target="_blank"> <img src="./images/pytorch.png" alt="pytorch" width="25" height="29"/></a> 
+  <a href="https://radimrehurek.com/gensim/index.html" target="_blank"> <img src="./images/ico_gensim.png" alt="gensim" width="45" height="25"/></a>
+  <a href="https://textblob.readthedocs.io/en/dev/" target="_blank"> <img src="./images/ico_textblob.png" alt="textblob" width="30" height="25"/></a> 
+  <a href="https://spacy.io/" target="_blank"> <img src="./images/ico_spacy.png" alt="spacy" width="40" height="20"/></a> 
 </p>
 <p align="right"> 
-  <a href="" target="_blank"> <img src="./images/ico_anaconda.png" alt="python" width="28" height="28"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_jupyter.png" alt="python" width="28" height="28"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_pycharm.png" alt="python" width="30" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_colab.png" alt="python" width="30" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_vscode.png" alt="python" width="30" height="28"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_eclipse.png" alt="python" width="30" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_jira.png" alt="python" width="28" height="28"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_springboot.png" alt="python" width="30" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_git.png" alt="python" width="32" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_confluence.png" alt="python" width="32" height="27"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_dvc.png" alt="python" width="28" height="25"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="./images/ico_aws.png" alt="aws" width="28" height="30"/></a>
+  <a href="https://azure.microsoft.com/en-in" target="_blank"> <img src="./images/ico_azure.png" alt="azure" width="30" height="30"/></a>
+  <a href="https://cloud.google.com/docs" target="_blank"> <img src="./images/ico_gcp.png" alt="googlecloud" width="30" height="30"/></a>
+  <a href="https://flask.palletsprojects.com/en/stable/installation/" target="_blank"> <img src="./images/ico_flask.png" alt="flask" width="32" height="25"/></a>
+  <a href="https://streamlit.io/" target="_blank"> <img src="./images/ico_streamlit.png" alt="streamlit" width="30" height="35"/></a>
+  <a href="https://airflow.apache.org/" target="_blank"> <img src="./images/ico_airflow.png" alt="airflow" width="40" height="35"/></a>
+  <a href="https://www.gradio.app/" target="_blank"> <img src="./images/ico_gradio.png" alt="gradio" width="23" height="28"/></a>
+  <a href="https://cloud.google.com/composer" target="_blank"> <img src="./images/ico_composer.png" alt="cloudcomposer" width="50" height="35"/></a>
+</p>
+<p align="right"> 
+  <a href="https://www.anaconda.com/" target="_blank"> <img src="./images/ico_anaconda.png" alt="anaconda" width="28" height="28"/></a>
+  <a href="https://jupyter.org/" target="_blank"> <img src="./images/ico_jupyter.png" alt="jupyter" width="28" height="28"/></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="./images/ico_pycharm.png" alt="pycharm" width="30" height="30"/></a>
+  <a href="https://colab.research.google.com/" target="_blank"> <img src="./images/ico_colab.png" alt="colab" width="30" height="30"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="./images/ico_vscode.png" alt="vscode" width="30" height="28"/></a>
+  <a href="https://www.eclipse.org/" target="_blank"> <img src="./images/ico_eclipse.png" alt="eclipse" width="30" height="30"/></a>
+  <a href="https://www.microsoft365.com/" target="_blank"> <img src="./images/ico_microsoftoffice.png" alt="office365" width="35" height="30"/></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="./images/ico_jira.png" alt="jira" width="28" height="28"/></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="./images/ico_springboot.png" alt="springboot" width="30" height="30"/></a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="./images/ico_git.png" alt="git" width="32" height="30"/></a>
+  <a href="https://www.atlassian.com/software/confluence" target="_blank"> <img src="./images/ico_confluence.png" alt="confluence" width="32" height="27"/></a>
+  <a href="https://dvc.org/" target="_blank"> <img src="./images/ico_dvc.png" alt="dataversioncontrol" width="28" height="25"/></a>
   <a href="" target="_blank"> <img src="./images/ico_docker.png" alt="python" width="30" height="30"/></a>
 </p>
 <p align="right"> 
-  <a href="" target="_blank"> <img src="./images/ico_aws.png" alt="python" width="28" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_azure.png" alt="python" width="30" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_gcp.png" alt="python" width="30" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_flask.png" alt="python" width="32" height="25"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_streamlit.png" alt="python" width="30" height="35"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_airflow.png" alt="python" width="40" height="35"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_gradio.png" alt="python" width="23" height="28"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_composer.png" alt="python" width="50" height="35"/></a>
-</p>
-<p align="right">
-  <a href="" target="_blank"> <img src="./images/ico_pandas.png" alt="python" width="28" height="28"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_numpy.png" alt="python" width="33" height="33"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_scipy.png" alt="python" width="60" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_tensorflow.png" alt="python" width="28" height="28"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_keras.png" alt="python" width="30" height="32"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_scikitlearn.png" alt="python" width="60" height="25"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_nltk.png" alt="python" width="30" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_selenium.png" alt="python" width="30" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/pytorch.png" alt="python" width="25" height="29"/></a> 
-  <a href="" target="_blank"> <img src="./images/ico_gensim.png" alt="python" width="45" height="25"/></a> 
-</p>
-<p align="right"> 
-  <a href="" target="_blank"> <img src="./images/ico_python.png" alt="python" width="28" height="28"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_cpp.png" alt="python" width="33" height="33"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_sql.png" alt="python" width="33" height="32"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_java.png" alt="python" width="32" height="32"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_c.png" alt="python" width="30" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_js.png" alt="python" width="33" height="33"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_spark.png" alt="python" width="40" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_html.png" alt="python" width="33" height="33"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_css.png" alt="python" width="33" height="33"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_bootstrap.png" alt="python" width="30" height="33"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_qt.png" alt="python" width="30" height="33"/></a>
+  <a href="https://openai.com/" target="_blank"> <img src="./images/ico_openai.png" alt="openai" width="55" height="18"/></a>
+  <a href="https://ollama.com/" target="_blank"> <img src="./images/ico_ollama.png" alt="ollama" width="25" height=30"/></a>
+  <a href="https://www.langchain.com/" target="_blank"> <img src="./images/ico_langchain.png" alt="lanchain" width="90" height="25"/></a>
+  <a href="https://docs.trychroma.com/docs/overview/introduction" target="_blank"> <img src="./images/ico_chroma.png" alt="chroma" width="30" height="30"/></a>
+  <a href="https://huggingface.co/" target="_blank"> <img src="./images/ico_crewai.png" alt="crewai" width="50" height="25"/></a>
+  <a href="https://huggingface.co/" target="_blank"> <img src="./images/ico_huggingface.png" alt="huggingface" width="25" height="25"/></a>
+  <a href="https://platform.openai.com/docs/overview" target="_blank"> <img src="./images/ico_llamaindex.png" alt="laamaindex" width="80" height="32"/></a> 
+  <a href="https://platform.openai.com/docs/overview" target="_blank"> <img src="./images/ico_chatgpt.png" alt="chatgpt" width="30" height="30"/></a>
+  <a href="https://ai.google.dev/gemini-api/docs" target="_blank"> <img src="./images/ico_geminiai.png" alt="gemini" width="50" height="30"/></a>
+  <a href="https://www.langchain.com/langgraph" target="_blank"> <img src="./images/ico_groq.png" alt="groqai" width="25" height="28"/></a>
+  <a href="https://www.langchain.com/langgraph" target="_blank"> <img src="./images/ico_langgraph.png" alt="langgraoh" width="50" height="28"/></a>
+  <a href="https://www.meta.ai/" target="_blank"> <img src="./images/ico_meta.png" alt="metaai" width="30" height="22"/></a>
+  <a href="https://claude.ai/" target="_blank"> <img src="./images/ico_claude.png" alt="chaudeai" width="50" height="25"/></a>
+  <a href="https://www.perplexity.ai/" target="_blank"> <img src="./images/ico_perplexityai.png" alt="perplexicityai" width="25" height="30"/></a>
+  <a href="https://www.langchain.com/" target="_blank"> <img src="./images/ico_neo4j.png" alt="neo4jdb" width="45" height="30"/></a>
 </p>
 
 ---
