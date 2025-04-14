@@ -1,18 +1,26 @@
 <p align="right"> 
-  <a href="" target="_blank"> <img src="./images/ico_aws.png" alt="python" width="30" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_aws.png" alt="python" width="30" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_aws.png" alt="python" width="30" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_aws.png" alt="python" width="30" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_aws.png" alt="python" width="30" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_aws.png" alt="python" width="30" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_anaconda.png" alt="python" width="28" height="28"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_jupyter.png" alt="python" width="28" height="28"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_pycharm.png" alt="python" width="30" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_colab.png" alt="python" width="30" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_vscode.png" alt="python" width="30" height="28"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_eclipse.png" alt="python" width="30" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_jira.png" alt="python" width="28" height="28"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_springboot.png" alt="python" width="30" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_git.png" alt="python" width="32" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_confluence.png" alt="python" width="32" height="27"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_dvc.png" alt="python" width="28" height="25"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_docker.png" alt="python" width="30" height="30"/></a>
 </p>
 <p align="right"> 
   <a href="" target="_blank"> <img src="./images/ico_aws.png" alt="python" width="28" height="30"/></a>
   <a href="" target="_blank"> <img src="./images/ico_azure.png" alt="python" width="30" height="30"/></a>
   <a href="" target="_blank"> <img src="./images/ico_gcp.png" alt="python" width="30" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_flask.png" alt="python" width="32" height="27"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_streamlit.png" alt="python" width="30" height="32"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_gradio.png" alt="python" width="23" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_flask.png" alt="python" width="32" height="25"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_streamlit.png" alt="python" width="30" height="35"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_airflow.png" alt="python" width="40" height="35"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_gradio.png" alt="python" width="23" height="28"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_composer.png" alt="python" width="50" height="35"/></a>
 </p>
 <p align="right"> 
   <a href="" target="_blank"> <img src="./images/ico_pandas.png" alt="python" width="28" height="28"/></a>
@@ -23,7 +31,7 @@
   <a href="" target="_blank"> <img src="./images/ico_scikitlearn.png" alt="python" width="60" height="25"/></a>
   <a href="" target="_blank"> <img src="./images/ico_nltk.png" alt="python" width="30" height="30"/></a>
   <a href="" target="_blank"> <img src="./images/ico_selenium.png" alt="python" width="30" height="30"/></a>
-  <a href="" target="_blank"> <img src="./images/ico_pytorch.png" alt="python" width="30" height="30"/></a> 
+  <a href="" target="_blank"> <img src="./images/pytorch.png" alt="python" width="25" height="29"/></a> 
   <a href="" target="_blank"> <img src="./images/ico_gensim.png" alt="python" width="45" height="25"/></a>
 </p>
 <p align="right"> 
