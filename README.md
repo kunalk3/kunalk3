@@ -1,4 +1,22 @@
 <p align="right"> 
+  <a href="" target="_blank"> <img src="./images/ico_perplexityai.png" alt="python" width="25" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_openai.png" alt="python" width="50" height="20"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_ollama.png" alt="python" width="25" height=30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_langchain.png" alt="python" width="60" height="25"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_chroma.png" alt="python" width="30" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_crewai.png" alt="python" width="50" height="15"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_huggingface.png" alt="python" width="25" height="25"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_llamaindex.png" alt="python" width="70" height="25"/></a> 
+  <a href="" target="_blank"> <img src="./images/ico_groq.png" alt="python" width="25" height="28"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_chatgpt.png" alt="python" width="30" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_geminiai.png" alt="python" width="50" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_langgraph.png" alt="python" width="60" height="28"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_meta.png" alt="python" width="32" height="25"/></a>
+  <a href="" target="_blank"> <img src="./images/openai.png" alt="python" width="60" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_aws.png" alt="python" width="30" height="30"/></a>
+  
+</p>
+<p align="right"> 
   <a href="" target="_blank"> <img src="./images/ico_anaconda.png" alt="python" width="28" height="28"/></a>
   <a href="" target="_blank"> <img src="./images/ico_jupyter.png" alt="python" width="28" height="28"/></a>
   <a href="" target="_blank"> <img src="./images/ico_pycharm.png" alt="python" width="30" height="30"/></a>
@@ -22,7 +40,7 @@
   <a href="" target="_blank"> <img src="./images/ico_gradio.png" alt="python" width="23" height="28"/></a>
   <a href="" target="_blank"> <img src="./images/ico_composer.png" alt="python" width="50" height="35"/></a>
 </p>
-<p align="right"> 
+<p align="right">
   <a href="" target="_blank"> <img src="./images/ico_pandas.png" alt="python" width="28" height="28"/></a>
   <a href="" target="_blank"> <img src="./images/ico_numpy.png" alt="python" width="33" height="33"/></a>
   <a href="" target="_blank"> <img src="./images/ico_scipy.png" alt="python" width="60" height="30"/></a>
@@ -32,7 +50,7 @@
   <a href="" target="_blank"> <img src="./images/ico_nltk.png" alt="python" width="30" height="30"/></a>
   <a href="" target="_blank"> <img src="./images/ico_selenium.png" alt="python" width="30" height="30"/></a>
   <a href="" target="_blank"> <img src="./images/pytorch.png" alt="python" width="25" height="29"/></a> 
-  <a href="" target="_blank"> <img src="./images/ico_gensim.png" alt="python" width="45" height="25"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_gensim.png" alt="python" width="45" height="25"/></a> 
 </p>
 <p align="right"> 
   <a href="" target="_blank"> <img src="./images/ico_python.png" alt="python" width="28" height="28"/></a>
