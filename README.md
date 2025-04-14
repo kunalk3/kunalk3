@@ -1,3 +1,30 @@
+<p align="right"> 
+  <a href="" target="_blank"> <img src="./images/ico_pandas.png" alt="python" width="28" height="28"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_numpy.png" alt="python" width="33" height="33"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_scipy.png" alt="python" width="60" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_tensorflow.png" alt="python" width="28" height="28"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_keras.png" alt="python" width="30" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_scikitlearn.png" alt="python" width="60" height="25"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_flask.png" alt="python" width="30" height="33"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_gradio.png" alt="python" width="30" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_keras.png" alt="python" width="30" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_keras.png" alt="python" width="30" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_keras.png" alt="python" width="30" height="30"/></a>
+
+</p>
+<p align="right"> 
+  <a href="" target="_blank"> <img src="./images/ico_python.png" alt="python" width="28" height="28"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_cpp.png" alt="python" width="33" height="33"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_sql.png" alt="python" width="33" height="32"/></a
+  <a href="" target="_blank"> <img src="./images/ico_java.png" alt="python" width="32" height="32"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_js.png" alt="python" width="33" height="33"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_html.png" alt="python" width="33" height="33"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_css.png" alt="python" width="33" height="33"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_bootstrap.png" alt="python" width="30" height="33"/></a
+  <a href="" target="_blank"> <img src="./images/ico_qt.png" alt="python" width="30" height="33"/></a
+</p>
+
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/41562231/147804883-98405cbc-c472-46fb-948e-32030725458b.png" height="150" width="1000">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px",width="40px"> I'm Kunal</h1><h4><i>DATA HAS A BETTER IDEA!!! just play with it...</i></h4>
@@ -36,12 +63,20 @@
 ---
 
 ✒️ __Languages and Tools:__
-<p align="left"> 
+<p align="right"> 
+  <a href="" target="_blank"> <img src="./images/ico_python.png" alt="python" width="30" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_cpp.png" alt="python" width="32" height="32"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_js.png" alt="python" width="30" height="30"/></a>
+  <a href="" target="_blank"> <img src="./images/ico_python.png" alt="python" width="30" height="30"/></a>
+</p>
+  
+<p>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> 
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/44708711/100903610-1db10a00-34ec-11eb-91e1-52481053a3b9.png" width="40" height="40"/>
+  <p>
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg" alt="flask" width="40" height="40"/></a>
   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="heroku" width="40" height="40"/></a>
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
